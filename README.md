@@ -9,7 +9,7 @@
 
 ![img](https://52codef.github.io/img/LoopPanic.png)	
 ### Loop Panic 环线危机	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.looppanic)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.looppanic) [[App Store]](https://apps.apple.com/app/id1537915263)
 
 ![img](https://52codef.github.io/img/StraightStrike.png)	
 ### Straight Strike 	
@@ -92,7 +92,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe)
 
 ### Merge Sword	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergesword)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergesword)  [[App Store]](https://itunes.apple.com/app/id1470604942)
 
 ### Merge Garden	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeslice)
