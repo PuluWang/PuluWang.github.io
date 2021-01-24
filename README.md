@@ -1,11 +1,13 @@
-# 欢迎来到CodeF公式主页
+# Pulu Network Official Page
 
-简单又好玩的益智游戏
-
-## 也欢迎关注我们的粉丝页
+## Also please follow our fanpage on other platform
 [[Facebook]](https://www.facebook.com/codefgame) [[Twitter]](https://twitter.com/CodeFgame)
 
 ## Download Link
+
+![img](https://52codef.github.io/img/TouchOut.png)	
+### Touch Out 疯狂躲避球	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.touchout)
 
 ![img](https://52codef.github.io/img/LoopPanic.png)	
 ### Loop Panic 环线危机	
