@@ -5,39 +5,39 @@
 
 ## Download Link
 
-![img](https://52codef.github.io/img/TouchOut.png)	
+![img](https://puluwang.github.io/img/TouchOut.png)	
 ### Touch Out 疯狂躲避球	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.touchout)
 
-![img](https://52codef.github.io/img/LoopPanic.png)	
+![img](https://puluwang.github.io/img/LoopPanic.png)	
 ### Loop Panic 环线危机	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.looppanic) [[App Store]](https://apps.apple.com/app/id1537915263)
 
-![img](https://52codef.github.io/img/StraightStrike.png)	
+![img](https://puluwang.github.io/img/StraightStrike.png)	
 ### Straight Strike 	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.straightstrike) [[App Store]](https://apps.apple.com/app/id1519599021)
 
-![img](https://52codef.github.io/img/Slideandcrush.png)
+![img](https://puluwang.github.io/img/Slideandcrush.png)
 ### Slide and Crush 滑动与撞击
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.slideandcrush) [[App Store]](https://itunes.apple.com/app/id1509004463)
 
-![img](https://52codef.github.io/img/dotsshot.png)
+![img](https://puluwang.github.io/img/dotsshot.png)
 ### Dots Shot 炫彩见缝插针
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotsshot)  [[App Store]](https://itunes.apple.com/app/id1507325626)
 
-![img](https://52codef.github.io/img/mergecarracer.png)
+![img](https://puluwang.github.io/img/mergecarracer.png)
 ### Merge Car Racer 合并赛车
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecarracer) [[App Store]](https://itunes.apple.com/app/id1469533028)
 
-![img](https://52codef.github.io/img/dotsallot.png)
+![img](https://puluwang.github.io/img/dotsallot.png)
 ### Dots Allot	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotsallot) [[App Store]](https://itunes.apple.com/app/id1509391665)
 
-![img](https://52codef.github.io/img/matchmatch.png)
+![img](https://puluwang.github.io/img/matchmatch.png)
 ### Match Match 
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.matchmatch)	 [[App Store]](https://itunes.apple.com/app/id1508953324)
 
-![img](https://52codef.github.io/img/dotscrush.png)
+![img](https://puluwang.github.io/img/dotscrush.png)
 ### Dots Crush	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotscrush) [[App Store]](https://itunes.apple.com/app/id1508963104)
 
@@ -47,15 +47,15 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### 100 Quiz	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hundredquiz)
 
-![img](https://52codef.github.io/img/PopGarden.png)
+![img](https://puluwang.github.io/img/PopGarden.png)
 ### Pop Garden	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popgarden)
 
-![img](https://52codef.github.io/img/IceBlast.png)
+![img](https://puluwang.github.io/img/IceBlast.png)
 ### Ice Blast
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.iceblast)
 
-![img](https://52codef.github.io/img/CakeLand.png)
+![img](https://puluwang.github.io/img/CakeLand.png)
 ### Cake Land	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.cakeland)
 
@@ -80,7 +80,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Marathon	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergemarathon)
 
-![img](https://52codef.github.io/img/mergecake.png)
+![img](https://puluwang.github.io/img/mergecake.png)
 ### Merge Cake	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake)
 
