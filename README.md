@@ -1,6 +1,6 @@
 # Pulu Network Official Page
 
-## Also please follow our fanpage on other platform
+### Follow our fanpage on other platform
 [[Facebook]](https://www.facebook.com/codefgame) [[Twitter]](https://twitter.com/CodeFgame)
 
 ## Download Link
