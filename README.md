@@ -4,6 +4,9 @@
 [[Facebook]](https://www.facebook.com/codefgame) [[Twitter]](https://twitter.com/CodeFgame)
 
 ## Download Link
+![img](https://puluwang.github.io/img/DotsOrder.png)	
+### Dots Order 轨道秩序	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dotsorder)
 
 ![img](https://puluwang.github.io/img/TouchOut.png)	
 ### Touch Out 疯狂躲避球	
