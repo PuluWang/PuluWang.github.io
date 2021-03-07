@@ -6,7 +6,7 @@
 ## Download Link
 ![img](https://puluwang.github.io/img/DotsOrder.png)	
 ### Dots Order 轨道秩序	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dotsorder)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dotsorder) [[App Store]](https://apps.apple.com/app/id1552614376)
 
 ![img](https://puluwang.github.io/img/TouchOut.png)	
 ### Touch Out 疯狂躲避球	
