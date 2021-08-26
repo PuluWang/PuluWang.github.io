@@ -85,7 +85,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ![img](https://puluwang.github.io/img/mergecake.png)
 ### Merge Cake	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake) [[App Store]](https://apps.apple.com/app/id1470086177)
 
 ### Merge Knife	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)
