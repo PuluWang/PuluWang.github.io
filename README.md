@@ -1,7 +1,7 @@
 # Pulu Network Official Page
 
 ### Follow our fanpage on other platform
-[[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame)
+[[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[Tik Tok]](https://tiktok.com/@pulunetwork)
 
 ## Download Link
 ![img](https://puluwang.github.io/img/DotsOrder2.png)
@@ -73,7 +73,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.tapwalker)
 
 ### Block Breaker	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockbreaker)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockbreaker)   [[App Store]](https://apps.apple.com/app/id1512450314)
 
 ### Merge Highway	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway)
