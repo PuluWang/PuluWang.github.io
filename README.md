@@ -1,7 +1,7 @@
 # Pulu Network Official Page
 
 ### Follow our fanpage on other platform
-[[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[Tik Tok]](https://tiktok.com/@pulunetwork)
+[[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork)
 
 ## Download Link
 ![img](https://puluwang.github.io/img/DotsOrder2.png)
