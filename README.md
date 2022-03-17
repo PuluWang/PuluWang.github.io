@@ -4,6 +4,10 @@
 [[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork)
 
 ## Download Link
+![img](https://puluwang.github.io/img/FourBricks.png)	
+### Four Bricks 点击砖块	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.tapbrick)
+
 ![img](https://puluwang.github.io/img/IglooCrush.png)
 ### Igloo Crush 冰屋消消乐
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulunetwork.igloocrush)
@@ -73,9 +77,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Hex Puzzle	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexpuzzle)
 
-### Tap Walker	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.tapwalker)
-
 ### Block Breaker	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockbreaker)   [[App Store]](https://apps.apple.com/app/id1512450314)
 
@@ -87,9 +88,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Merge Vill	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergevill)
-
-### Merge Marathon	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergemarathon)
 
 ![img](https://puluwang.github.io/img/mergecake.png)
 ### Merge Cake	
@@ -106,8 +104,4 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Merge Sword	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergesword)  [[App Store]](https://itunes.apple.com/app/id1470604942)
-
-### Merge Garden	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeslice)
-
 
