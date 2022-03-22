@@ -4,6 +4,10 @@
 [[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork)
 
 ## Download Link
+![img](https://puluwang.github.io/img/NineHexagons.png)	
+### Nine Hexagons 点击砖块-蜂巢模式	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.ninehexagons)
+
 ![img](https://puluwang.github.io/img/FourBricks.png)	
 ### Four Bricks 点击砖块	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.tapbrick)
