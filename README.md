@@ -3,6 +3,8 @@
 ### Follow our fanpage on other platform
 [[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork)
 
+[[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
+
 ## Download Link
 ![img](https://puluwang.github.io/img/NineHexagons.png)	
 ### Nine Hexagons 点击砖块-蜂巢模式	
