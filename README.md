@@ -20,7 +20,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pu
 
 ![img](https://puluwang.github.io/img/DotsOrder2.png)
 ### Dots Order 2 轨道秩序2	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dotsorder2)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dotsorder2) [[App Store]](https://apps.apple.com/app/id1581153711)
 
 ![img](https://puluwang.github.io/img/DotsOrder.png)	
 ### Dots Order 轨道秩序	
