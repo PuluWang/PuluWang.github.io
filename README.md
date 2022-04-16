@@ -62,6 +62,18 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Dots Crush	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.dotscrush) [[App Store]](https://itunes.apple.com/app/id1508963104)
 
+![img](https://puluwang.github.io/img/blockbreaker.png)
+### Block Breaker	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockbreaker)   [[App Store]](https://apps.apple.com/app/id1512450314)
+
+![img](https://puluwang.github.io/img/mergecake.png)
+### Merge Cake	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake) [[App Store]](https://apps.apple.com/app/id1470086177)
+
+![img](https://puluwang.github.io/img/mergesword.png)
+### Merge Sword	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergesword)  [[App Store]](https://itunes.apple.com/app/id1470604942)
+
 ### Arrow2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
 
@@ -83,9 +95,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Hex Puzzle	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexpuzzle)
 
-### Block Breaker	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.blockbreaker)   [[App Store]](https://apps.apple.com/app/id1512450314)
-
 ### Merge Highway	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway)
 
@@ -95,10 +104,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Vill	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergevill)
 
-![img](https://puluwang.github.io/img/mergecake.png)
-### Merge Cake	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergecake) [[App Store]](https://apps.apple.com/app/id1470086177)
-
 ### Merge Knife	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)
 
@@ -107,7 +112,4 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Merge Axe	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe)
-
-### Merge Sword	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergesword)  [[App Store]](https://itunes.apple.com/app/id1470604942)
 
