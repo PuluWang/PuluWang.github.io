@@ -77,8 +77,8 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Arrow2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
 
-### 100 Quiz	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hundredquiz)
+### Arrow3	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow3)
 
 ![img](https://puluwang.github.io/img/PopGarden.png)
 ### Pop Garden	
