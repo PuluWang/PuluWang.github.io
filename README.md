@@ -8,7 +8,7 @@
 ## Download Link
 ![img](https://puluwang.github.io/img/CakeLand2.png)	
 ### Cake Land 2 蛋糕乐消除2	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.cakeland2)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.cakeland2) [[App Store]](https://apps.apple.com/app/id1619789442)
 
 ![img](https://puluwang.github.io/img/IglooCrush.png)
 ### Igloo Crush 冰屋消消乐
