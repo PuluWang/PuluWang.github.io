@@ -78,6 +78,10 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Sword	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergesword)  [[App Store]](https://itunes.apple.com/app/id1470604942)
 
+![img](https://52codef.github.io/img/mergehighway.png)
+### Merge Highway	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway) [[App Store]](https://apps.apple.com/app/id1581101331)
+
 ### Arrow2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2)
 
@@ -98,9 +102,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Hex Puzzle	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexpuzzle)
-
-### Merge Highway	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway)
 
 ### Merge Rally	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergerally)
