@@ -98,7 +98,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ![img](https://puluwang.github.io/img/IceBlast.png)
 ### Ice Blast
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.iceblast)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.iceblast) [[App Store]](https://apps.apple.com/app/id1627878452)
 
 ![img](https://puluwang.github.io/img/CakeLand.png)
 ### Cake Land	
