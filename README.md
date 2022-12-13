@@ -6,6 +6,10 @@
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://puluwang.github.io/img/GemBurst.png)	
+### Gem Burst 宝石爆破
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.gemburst)
+
 ![img](https://puluwang.github.io/img/CakeLand2.png)	
 ### Cake Land 2 蛋糕乐消除2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.cakeland2) [[App Store]](https://apps.apple.com/app/id1619789442)
