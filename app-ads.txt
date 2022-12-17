@@ -2,6 +2,9 @@ facebook.com, 195304561120070, RESELLER, c3e20eee3f780d68
 
 google.com, pub-5561726179495617, DIRECT, f08c47fec0942fa0
 
+pangleglobal.com, Account ID, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
 applovin.com, f7ff97890eaefc7365b8fb9589f3df8d, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
