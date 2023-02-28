@@ -1,6 +1,6 @@
-# Pulu Network Official Page
+## Pulu Network Official Page
 
-## Email
+# Email
 116779362@qq.com
 
 ### Follow our fanpage on other platform
