@@ -1,6 +1,7 @@
 # Pulu Network Official Page
 
-[[Email]](116779362@qq.com)
+## Email
+116779362@qq.com
 
 ### Follow our fanpage on other platform
 [[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork)
