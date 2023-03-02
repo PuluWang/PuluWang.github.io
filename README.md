@@ -5,6 +5,9 @@ If you encounter any problems, please contact us through this email
 
 116779362@qq.com
 
+## Phone Number
++8617317803869
+
 ### Follow our fanpage on other platform
 [[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork)
 
