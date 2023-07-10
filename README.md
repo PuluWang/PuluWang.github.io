@@ -138,9 +138,5 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Knife	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)
 
-### Merge Jewel	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergegems)
-
 ### Merge Axe	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe)
-
