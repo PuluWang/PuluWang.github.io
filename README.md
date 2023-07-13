@@ -1,4 +1,4 @@
-![image](https://github.com/PuluWang/PuluWang.github.io/assets/74678014/29015fda-fc6c-4265-b44a-885dbd7aacbc)# Pulu Network Official Page
+# Pulu Network Official Page
 
 ## Email
 If you encounter any problems, please contact us through this email
