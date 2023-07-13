@@ -1,4 +1,4 @@
-# Pulu Network Official Page
+![image](https://github.com/PuluWang/PuluWang.github.io/assets/74678014/29015fda-fc6c-4265-b44a-885dbd7aacbc)# Pulu Network Official Page
 
 ## Email
 If you encounter any problems, please contact us through this email
@@ -14,6 +14,10 @@ If you encounter any problems, please contact us through this email
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://puluwang.github.io/img/mergeaxe.png)
+### Merge Axe 合成斧子
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe)  [[App Store]](https://apps.apple.com/app/id1624414103)
+
 ![img](https://puluwang.github.io/img/mergegems.png)
 ### Merge Jewel	合成宝石
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergegems) [[App Store]](https://apps.apple.com/app/id1581151249)
@@ -137,6 +141,3 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Merge Knife	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeknife)
-
-### Merge Axe	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe)
