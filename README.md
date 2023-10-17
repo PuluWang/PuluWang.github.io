@@ -14,6 +14,14 @@ If you encounter any problems, please contact us through this email
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://puluwang.github.io/img/PopGarden.png)
+### Pop Garden	
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popgarden) [[App Store]](https://apps.apple.com/app/id1627878706)
+
+![img](https://puluwang.github.io/img/IceBlast.png)
+### Ice Blast
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.iceblast) [[App Store]](https://apps.apple.com/app/id1627878452)
+
 ![img](https://puluwang.github.io/img/mergeaxe.png)
 ### Merge Axe 合成斧子
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeaxe)  [[App Store]](https://apps.apple.com/app/id1624414103)
@@ -123,14 +131,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 
 ### Arrow3	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow3)
-
-![img](https://puluwang.github.io/img/PopGarden.png)
-### Pop Garden	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popgarden) [[App Store]](https://apps.apple.com/app/id1627878706)
-
-![img](https://puluwang.github.io/img/IceBlast.png)
-### Ice Blast
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.iceblast) [[App Store]](https://apps.apple.com/app/id1627878452)
 
 ![img](https://puluwang.github.io/img/CakeLand.png)
 ### Cake Land	
