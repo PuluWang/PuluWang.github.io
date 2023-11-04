@@ -14,6 +14,11 @@ If you encounter any problems, please contact us through this email
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
 ## Download Link
+![img](https://puluwang.github.io/img/BirdCrush.png)
+### Bird Crush 小鸡消消乐
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.birdcrush)
+ [[App Store]](https://apps.apple.com/app/id6469457129)
+
 ![img](https://puluwang.github.io/img/PopGarden.png)
 ### Pop Garden	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.popgarden) [[App Store]](https://apps.apple.com/app/id1627878706)
