@@ -16,7 +16,7 @@ If you encounter any problems, please contact us through this email
 ## Download Link
 ![img](https://puluwang.github.io/img/DinoHeroes.png)
 ### Dino Heroes 恐龙英雄
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dinoheroes)
+Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.dinoheroes) [[App Store]](https://apps.apple.com/app/id6474651873)
 
 ![img](https://puluwang.github.io/img/PopForest.png)
 ### Pop Forest 丛林消消乐
