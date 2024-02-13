@@ -4,6 +4,8 @@ google.com, pub-5561726179495617, DIRECT, f08c47fec0942fa0
 
 vungle.com,580f5c7be83456782800001b,DIRECT,c107d686becd2d77
 
+pangleglobal.com, 5004283, DIRECT
+
 pangleglobal.com, Account ID, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 
