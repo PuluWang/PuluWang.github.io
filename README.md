@@ -2,7 +2,7 @@
 
 上海噗噜网络科技有限公司
 
-PULU NETWORK TECHNOLOGY (SHANGHAI) CO., LTD.
+Shanghai Pulu Network Technology Co., Ltd.
 
 ## Email
 If you encounter any problems, please contact us through this email
