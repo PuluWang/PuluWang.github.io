@@ -1,9 +1,5 @@
 # Pulu Network Official Page
 
-上海噗噜网络科技有限公司
-
-Shanghai Pulu Network Technology Co., Ltd.
-
 ## Email
 If you encounter any problems, please contact us through this email
 
@@ -11,7 +7,6 @@ If you encounter any problems, please contact us through this email
 
 ## Phone Number
 +8617317803869
-+8618964700918
 
 ### Follow our fanpage on other platform
 [[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork)
