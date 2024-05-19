@@ -1,19 +1,59 @@
-This Privacy Policy informs you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of our Facebook applications. This Privacy Policy applies only to information that you provide to us or permit Facebook to provide us. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the primary access points to our games service. You are advised to consult this policy regularly for any changes.
+Privacy Policy
+Introduction
+Pulu Network ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and share your personal and sensitive data when you use our game ("the App") and its associated services. By using the App, you agree to the practices described in this Privacy Policy.
 
-Information Collection and Use: Personally Identifiable Information
+Access and Availability
+Our Privacy Policy is accessible through:
 
-In the course of using our games services, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information includes, but is not limited to, your name and email address. We use your Personal Information mainly to provide our games services and administer your inquiries.
+The app's details page in the Google Play Store.
+A link within the App itself.
+Entity Information
+This Privacy Policy applies to Pulu Network and the App listed on its Google Play Store page.
 
-We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide our games services, complete your transactions and administer your inquiries.
+Contact Information
+If you have any privacy-related questions or concerns, please contact us at:
 
-We also use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
+Email: 116779363@qq.com
 
-We do not store your personal information provided by Facebook on our servers for more than 24 hours, except for your Facebook user Id and your email address if you choose to share it.
+Policy Accessibility
+This Privacy Policy:
 
-Information Sharing and Disclosure
+Is clearly marked as "Privacy Policy."
+Can be viewed without the need for any plugins or special software.
+Is available at a publicly accessible and non-geographically restricted URL.
+Is non-editable.
+Data Collection and Use
+We are committed to transparently disclosing how the App accesses, collects, uses, and shares your data.
 
-The following Personal Information from your Facebook profile can be visible to other players of our games on Facebooks: Name, profile picture, and Facebook user Id. Other information collected within our games such as game high scores and collected diplomas, can also be visible to other players of our games.
+Types of Data Collected
+Geographical Data: The App accesses your approximate geographical location.
+Game Data: Information generated during gameplay, such as high scores, in-game purchases, and preferences.
+Payment Information: Details provided during in-app purchases.
+Photos and Media: Access to your device's photo album when you share images from the App.
+User and Device Information: Data for analytics and advertising purposes, such as device type, operating system, and unique device identifiers.
+Data Usage
+Geographical Data: To provide location-based services and enhance user experience.
+Game Data: To improve gameplay experience and support in-game functionality.
+Payment Information: To process transactions and manage purchases.
+Photos and Media: To enable sharing of game-related images.
+User and Device Information: For data analysis and targeted advertising.
+Data Sharing
+Your data may be shared with:
 
-Contacting Us
+Third-Party Service Providers: To support our services, such as payment processors and analytics providers.
+Advertising Partners: To deliver personalized ads based on user and device data.
+Security Measures
+We employ robust security measures to protect your personal and sensitive data, including encryption and secure servers.
 
-If you have any questions about this Privacy Policy, please use the contact e-mail address: funcodegroup@gmail.com
+Data Retention and Deletion
+Retention: We retain your data as long as necessary to provide the services and for legitimate business purposes.
+Deletion: You can request the deletion of your data by contacting us at 116779363@qq.com. We will respond to your request in accordance with applicable laws and regulations.
+Changes to the Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and you will be notified via the App or other means as appropriate.
+
+Effective Date
+This Privacy Policy is effective as of [Insert Date].
+
+Thank you for using our App. Your trust is important to us, and we are committed to protecting your privacy.
+
+For further details or queries, please contact us at 116779363@qq.com.
