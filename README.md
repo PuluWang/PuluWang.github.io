@@ -9,7 +9,7 @@ If you encounter any problems, please contact us through this email
 +8617317803869
 
 ### Follow our fanpage on other platform
-[[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork) [[Discord]](https://discord.gg/RvZqu4xUbS)
+[[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork) [[Discord]](https://discord.gg/JgEreHM4ht)
 
 [[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
 
