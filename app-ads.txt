@@ -431,7 +431,7 @@ pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
-pubmatic.com, 164532, RESELLER, 5d62403b186f2
+pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b
@@ -1662,7 +1662,7 @@ improvedigital.com, 2320, RESELLER
 rubiconproject.com, 26442, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 26440, DIRECT, 0bfd66d529a55807
 smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
-rubiconproject.com, 20086, RESELLER, 0bfd66d529a5
+rubiconproject.com, 20086, RESELLER, 0bfd66d529a55807
 adform.com, 2904, RESELLER
 appnexus.com, 14416, RESELLER
 orangeclickmedia.com, C-1054, RESELLER
