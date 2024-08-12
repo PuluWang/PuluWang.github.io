@@ -1965,3 +1965,4 @@ video.unrulymedia.com, 3880497124, RESELLER
 vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
 yeahmobi.com, 113772, RESELLER
+zmaticoo.com, 21759959, DIRECT
