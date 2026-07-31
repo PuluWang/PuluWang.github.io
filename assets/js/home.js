@@ -1,5 +1,50 @@
 const grid = document.querySelector("#gamesGrid");
 const button = document.querySelector("#showGames");
+const languageSwitch = document.querySelector("#languageSwitch");
+const requestedLanguage = new URLSearchParams(window.location.search).get("lang");
+let currentLanguage = requestedLanguage === "zh" || requestedLanguage === "en"
+  ? requestedLanguage
+  : (localStorage.getItem("pulu-language") === "zh" ? "zh" : "en");
+let gameList = [];
+
+function localizedGameTitle(title) {
+  const match = title.match(/^([^\u3400-\u9fff]*?)([\u3400-\u9fff].*)$/);
+  if (!match) return title;
+  return currentLanguage === "zh" ? match[2].trim() : match[1].trim();
+}
+
+function updateShowButton() {
+  if (!gameList.length) return;
+  const expanded = grid.classList.contains("expanded");
+  if (currentLanguage === "zh") {
+    button.textContent = expanded ? "收起游戏列表" : `查看全部 ${gameList.length} 款游戏`;
+  } else {
+    button.textContent = expanded ? "Show fewer games" : `Show all ${gameList.length} games`;
+  }
+}
+
+function applyLanguage(language) {
+  currentLanguage = language;
+  document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
+  document.title = language === "zh"
+    ? "Pulu Network — 独立游戏工作室"
+    : "Pulu Network — Independent Game Studio";
+
+  document.querySelectorAll("[data-en][data-zh]").forEach(element => {
+    const value = element.dataset[language];
+    if (element.hasAttribute("data-html")) element.innerHTML = value;
+    else element.textContent = value;
+  });
+
+  languageSwitch.textContent = language === "zh" ? "EN" : "中文";
+  languageSwitch.setAttribute(
+    "aria-label",
+    language === "zh" ? "Switch to English" : "切换为中文"
+  );
+  localStorage.setItem("pulu-language", language);
+
+  if (gameList.length) renderGames(gameList);
+}
 
 function parseGames(markdown) {
   const source = markdown.split("## Download Link")[1] || "";
@@ -29,36 +74,53 @@ function parseGames(markdown) {
 
 function renderGames(games) {
   grid.innerHTML = games.map((game, index) => {
+    const title = localizedGameTitle(game.title);
     const art = game.image
       ? `<img src="${game.image}" alt="" loading="lazy">`
-      : `<span>${game.title.slice(0, 1)}</span>`;
+      : `<span>${title.slice(0, 1)}</span>`;
     const stores = game.stores.map(store =>
-      `<a href="${store.url}" aria-label="${game.title} on ${store.label}">${store.label}</a>`
+      `<a href="${store.url}" aria-label="${title} on ${store.label}">${store.label}</a>`
     ).join("");
     return `<article class="game-card${index >= 12 ? " extra" : ""}">
       <div class="game-art">${art}</div>
-      <h3>${game.title}</h3>
+      <h3>${title}</h3>
       <div class="stores">${stores}</div>
     </article>`;
   }).join("");
 
   if (games.length > 12) {
     button.hidden = false;
-    button.textContent = `Show all ${games.length} games`;
+    updateShowButton();
   }
 }
 
-fetch("README.md")
-  .then(response => {
-    if (!response.ok) throw new Error("Unable to load game list");
-    return response.text();
-  })
-  .then(markdown => renderGames(parseGames(markdown)))
-  .catch(() => {
-    grid.innerHTML = '<p>Visit our <a href="README.md#download-link">complete game list</a>.</p>';
-  });
+if (Array.isArray(window.PULU_GAMES) && window.PULU_GAMES.length) {
+  gameList = window.PULU_GAMES;
+  renderGames(gameList);
+} else {
+  fetch("README.md")
+    .then(response => {
+      if (!response.ok) throw new Error("Unable to load game list");
+      return response.text();
+    })
+    .then(markdown => {
+      gameList = parseGames(markdown);
+      renderGames(gameList);
+    })
+    .catch(() => {
+      grid.innerHTML = currentLanguage === "zh"
+        ? '<p>请查看我们的<a href="README.md#download-link">完整游戏列表</a>。</p>'
+        : '<p>Visit our <a href="README.md#download-link">complete game list</a>.</p>';
+    });
+}
 
 button.addEventListener("click", () => {
-  const expanded = grid.classList.toggle("expanded");
-  button.textContent = expanded ? "Show fewer games" : `Show all ${grid.children.length} games`;
+  grid.classList.toggle("expanded");
+  updateShowButton();
 });
+
+languageSwitch.addEventListener("click", () => {
+  applyLanguage(currentLanguage === "en" ? "zh" : "en");
+});
+
+applyLanguage(currentLanguage);

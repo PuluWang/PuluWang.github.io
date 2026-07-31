@@ -12,26 +12,26 @@
   <header class="site-header">
     <a class="brand" href="#top" aria-label="Pulu Network home">
       <img class="brand-logo" src="img/pulu-logo.png" alt="">
-      <span><b>Pulu Network</b><small>上海噗噜网络科技有限公司</small></span>
+      <span><b>Pulu Network</b><small data-en="Shanghai Pulu Network Technology Co., Ltd." data-zh="上海噗噜网络科技有限公司">Shanghai Pulu Network Technology Co., Ltd.</small></span>
     </a>
     <nav aria-label="Main navigation">
-      <a href="#games">Games</a>
-      <a href="#about">About</a>
-      <a href="#api">API Use</a>
-      <a href="#contact">Contact</a>
+      <a href="#games" data-en="Games" data-zh="游戏">Games</a>
+      <a href="#about" data-en="About" data-zh="关于我们">About</a>
+      <a href="#api" data-en="API Use" data-zh="API用途">API Use</a>
+      <a href="#contact" data-en="Contact" data-zh="联系我们">Contact</a>
     </nav>
+    <button class="language-switch" id="languageSwitch" type="button" aria-label="切换为中文">中文</button>
   </header>
 
   <main id="top">
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow"><span></span> Two-person independent studio</p>
-        <h1>Small team.<br><em>Bright games.</em></h1>
-        <p class="hero-lede">We create and publish original mobile games for players around the world.</p>
-        <p class="hero-cn">两个人，一起做有趣、轻松又耐玩的游戏。</p>
+        <p class="eyebrow"><span></span><span class="eyebrow-text" data-en="Two-person independent studio" data-zh="两人独立游戏团队">Two-person independent studio</span></p>
+        <h1 data-en="Small team.<br><em>Bright games.</em>" data-zh="小小团队。<br><em>精彩游戏。</em>" data-html>Small team.<br><em>Bright games.</em></h1>
+        <p class="hero-lede" data-en="We create and publish original mobile games for players around the world." data-zh="我们为全球玩家开发并发行原创移动游戏。">We create and publish original mobile games for players around the world.</p>
         <div class="hero-actions">
-          <a class="button primary" href="#games">Explore our games</a>
-          <a class="button secondary" href="#api">Google Ads API use</a>
+          <a class="button primary" href="#games" data-en="Explore our games" data-zh="浏览我们的游戏">Explore our games</a>
+          <a class="button secondary" href="#api" data-en="Google Ads API use" data-zh="Google Ads API用途">Google Ads API use</a>
         </div>
       </div>
       <div class="game-collage" aria-label="Selected Pulu Network games">
@@ -45,18 +45,24 @@
     </section>
 
     <section class="stats" aria-label="Studio at a glance">
-      <div><strong>2</strong><span>team members<br>团队成员</span></div>
-      <div><strong>36</strong><span>published games<br>已发布游戏</span></div>
-      <div><strong>2</strong><span>mobile platforms<br>移动平台</span></div>
+      <div><strong>2</strong><span data-en="team members" data-zh="团队成员">team members</span></div>
+      <div><strong>36</strong><span data-en="published games" data-zh="已发布游戏">published games</span></div>
+      <div><strong>2</strong><span data-en="mobile platforms" data-zh="移动平台">mobile platforms</span></div>
     </section>
 
     <section class="section games-section" id="games">
       <div class="section-heading">
         <div>
-          <p class="section-kicker">Our games / 游戏作品</p>
-          <h2>Made with care,<br>one game at a time.</h2>
+          <p class="section-kicker" data-en="Our games" data-zh="游戏作品">Our games</p>
+          <h2 data-en="Made with care,<br>one game at a time." data-zh="用心制作，<br>一次做好一款游戏。" data-html>Made with care,<br>one game at a time.</h2>
         </div>
-        <p>Available through our official <a href="https://play.google.com/store/apps/dev?id=7630802525166577768">Google Play</a> and <a href="https://itunes.apple.com/developer/id1040525394">App Store</a> developer pages.</p>
+        <p>
+          <span data-en="Available through our official" data-zh="可通过我们的官方">Available through our official</span>
+          <a href="https://play.google.com/store/apps/dev?id=7630802525166577768">Google Play</a>
+          <span data-en="and" data-zh="与">and</span>
+          <a href="https://itunes.apple.com/developer/id1040525394">App Store</a>
+          <span data-en="developer pages." data-zh="开发者主页下载。">developer pages.</span>
+        </p>
       </div>
       <div class="games-grid" id="gamesGrid" aria-live="polite"></div>
       <button class="show-games" id="showGames" type="button" hidden>Show all games</button>
@@ -65,58 +71,75 @@
 
     <section class="section split" id="about">
       <div>
-        <p class="section-kicker">About us / 关于我们</p>
-        <h2>Independent by design.</h2>
+        <p class="section-kicker" data-en="About us" data-zh="关于我们">About us</p>
+        <h2 data-en="Independent by design." data-zh="生而独立。">Independent by design.</h2>
       </div>
       <div class="prose">
-        <p>Pulu Network is the publishing brand operated by Shanghai Pulu Network Technology Co., Ltd. (上海噗噜网络科技有限公司), a legally registered independent game company. Our two-person team develops, publishes, and operates its own mobile games on Google Play and the App Store.</p>
-        <p>Pulu Network 是上海噗噜网络科技有限公司运营的游戏品牌。我们是一家依法注册成立的独立游戏公司，两名团队成员共同负责自有移动游戏的开发、发行与长期运营。</p>
-        <div class="business-tags">
-          <span>Original mobile games</span>
-          <span>In-app advertising</span>
-          <span>In-app purchases</span>
-          <span>Worldwide publishing</span>
+        <p data-en="Pulu Network is the publishing brand operated by Shanghai Pulu Network Technology Co., Ltd., a legally registered independent game company. Our two-person team develops, publishes, and operates its own mobile games on Google Play and the App Store." data-zh="Pulu Network 是上海噗噜网络科技有限公司运营的游戏品牌。我们是一家依法注册成立的独立游戏公司，两名团队成员共同负责自有移动游戏的开发、发行与长期运营。">Pulu Network is the publishing brand operated by Shanghai Pulu Network Technology Co., Ltd., a legally registered independent game company. Our two-person team develops, publishes, and operates its own mobile games on Google Play and the App Store.</p>
+        <div class="legal-entity-card">
+          <p class="legal-label" data-en="Legal Entity" data-zh="公司主体">Legal Entity</p>
+          <h3 data-en="Shanghai Pulu Network Technology Co., Ltd." data-zh="上海噗噜网络科技有限公司">Shanghai Pulu Network Technology Co., Ltd.</h3>
+          <p class="legal-name-en" data-en="Legally registered company" data-zh="依法注册成立的公司">Legally registered company</p>
+          <dl>
+            <div><dt data-en="Brand" data-zh="品牌">Brand</dt><dd>Pulu Network</dd></div>
+            <div><dt data-en="Founded" data-zh="成立年份">Founded</dt><dd>2020</dd></div>
+            <div><dt data-en="Team" data-zh="团队规模">Team</dt><dd data-en="2 members" data-zh="2人">2 members</dd></div>
+            <div><dt data-en="Location" data-zh="所在地">Location</dt><dd data-en="Shanghai, China" data-zh="中国上海">Shanghai, China</dd></div>
+          </dl>
         </div>
-        <p class="note">We use Google Ads only to promote and evaluate our own games. We are not an advertising agency and do not manage advertising for third-party clients.</p>
+        <div class="business-tags">
+          <span data-en="Original mobile games" data-zh="原创移动游戏">Original mobile games</span>
+          <span data-en="In-app advertising" data-zh="应用内广告">In-app advertising</span>
+          <span data-en="In-app purchases" data-zh="应用内购买">In-app purchases</span>
+          <span data-en="Worldwide publishing" data-zh="全球发行">Worldwide publishing</span>
+        </div>
+        <p class="note" data-en="We use Google Ads only to promote and evaluate our own games. We are not an advertising agency and do not manage advertising for third-party clients." data-zh="我们仅使用 Google Ads 推广和评估自有游戏。我们不是广告代理商，也不为第三方客户管理广告。">We use Google Ads only to promote and evaluate our own games. We are not an advertising agency and do not manage advertising for third-party clients.</p>
       </div>
     </section>
 
     <section class="api-section" id="api">
       <div class="api-intro">
-        <p class="section-kicker light">Google Ads API use / 使用说明</p>
-        <h2>Private reporting,<br>for our own games.</h2>
-        <p>We are developing a read-only internal reporting tool used exclusively by our two team members and only with Google Ads accounts owned or managed by Shanghai Pulu Network Technology Co., Ltd.</p>
+        <p class="section-kicker light" data-en="Google Ads API use" data-zh="Google Ads API 使用说明">Google Ads API use</p>
+        <h2 data-en="Private reporting,<br>for our own games." data-zh="内部报告，<br>只服务于自有游戏。" data-html>Private reporting,<br>for our own games.</h2>
+        <p data-en="We are developing a read-only internal reporting tool used exclusively by our two team members and only with Google Ads accounts owned or managed by Shanghai Pulu Network Technology Co., Ltd." data-zh="我们正在开发一款只读内部报告工具，仅供两名团队成员使用，并且只访问上海噗噜网络科技有限公司拥有或管理的 Google Ads 账户。">We are developing a read-only internal reporting tool used exclusively by our two team members and only with Google Ads accounts owned or managed by Shanghai Pulu Network Technology Co., Ltd.</p>
         <div class="api-badges">
-          <span>Internal use only</span>
-          <span>Reporting only</span>
-          <span>No third-party access</span>
+          <span data-en="Internal use only" data-zh="仅供内部使用">Internal use only</span>
+          <span data-en="Reporting only" data-zh="仅限报告读取">Reporting only</span>
+          <span data-en="No third-party access" data-zh="无第三方访问">No third-party access</span>
         </div>
       </div>
       <div class="flow">
-        <div><b>01</b><strong>Our ad accounts</strong><span>Company-owned or authorized Google Ads accounts</span></div>
-        <div><b>02</b><strong>Google Ads API</strong><span>Aggregated, read-only reporting data</span></div>
-        <div><b>03</b><strong>Internal reports</strong><span>Cost, clicks, conversions and performance</span></div>
-        <div><b>04</b><strong>Our team</strong><span>Better user-acquisition and ROI decisions</span></div>
+        <div><b>01</b><strong data-en="Our ad accounts" data-zh="我们的广告账户">Our ad accounts</strong><span data-en="Company-owned or authorized Google Ads accounts" data-zh="公司拥有或授权管理的 Google Ads 账户">Company-owned or authorized Google Ads accounts</span></div>
+        <div><b>02</b><strong>Google Ads API</strong><span data-en="Aggregated, read-only reporting data" data-zh="汇总的只读报告数据">Aggregated, read-only reporting data</span></div>
+        <div><b>03</b><strong data-en="Internal reports" data-zh="内部报告">Internal reports</strong><span data-en="Cost, clicks, conversions and performance" data-zh="费用、点击、转化和广告表现">Cost, clicks, conversions and performance</span></div>
+        <div><b>04</b><strong data-en="Our team" data-zh="我们的团队">Our team</strong><span data-en="Better user-acquisition and ROI decisions" data-zh="辅助买量与投入回报决策">Better user-acquisition and ROI decisions</span></div>
       </div>
       <div class="api-policy">
-        <p>The tool is not available to external users, does not manage third-party accounts, and does not sell or share Google Ads data. It does not create customer accounts or modify campaigns, ads, bids, or budgets.</p>
-        <p>该工具不向外部用户开放，不管理第三方广告账户，不出售或共享 Google Ads 数据，也不会创建客户账户或修改广告系列、广告、出价和预算。</p>
+        <p data-en="The tool is not available to external users, does not manage third-party accounts, and does not sell or share Google Ads data. It does not create customer accounts or modify campaigns, ads, bids, or budgets." data-zh="该工具不向外部用户开放，不管理第三方广告账户，不出售或共享 Google Ads 数据，也不会创建客户账户或修改广告系列、广告、出价和预算。">The tool is not available to external users, does not manage third-party accounts, and does not sell or share Google Ads data. It does not create customer accounts or modify campaigns, ads, bids, or budgets.</p>
       </div>
     </section>
 
     <section class="contact-section" id="contact">
       <div>
-        <p class="section-kicker">Contact / 联系我们</p>
-        <h2>Let’s stay connected.</h2>
+        <p class="section-kicker" data-en="Contact" data-zh="联系我们">Contact</p>
+        <h2 data-en="Let’s stay connected." data-zh="保持联系。">Let’s stay connected.</h2>
       </div>
       <div class="contact-grid">
-        <a href="mailto:116779363@qq.com"><small>Customer support</small><strong>116779363@qq.com</strong></a>
-        <a href="mailto:116779363@qq.com"><small>Privacy &amp; data requests</small><strong>116779363@qq.com</strong></a>
-        <a href="mailto:wangxiaojie@pulunetwork.com"><small>Business inquiries</small><strong>wangxiaojie@pulunetwork.com</strong></a>
-        <a href="tel:+8617317803869"><small>Phone</small><strong>+86 173 1780 3869</strong></a>
+        <div class="business-contact-card">
+          <small data-en="Business contact" data-zh="商务联系人">Business contact</small>
+          <strong>王晓杰</strong>
+          <div class="business-contact-details">
+            <a href="mailto:wangxiaojie@pulunetwork.com">wangxiaojie@pulunetwork.com</a>
+            <a href="tel:+8617317803869">+86 173 1780 3869</a>
+            <a href="https://www.linkedin.com/in/wangxiaojie87/">LinkedIn · wangxiaojie87</a>
+          </div>
+        </div>
+        <div class="support-contact-stack">
+          <a href="mailto:116779363@qq.com"><small data-en="Customer support" data-zh="游戏客服">Customer support</small><strong>116779363@qq.com</strong></a>
+          <a href="mailto:116779363@qq.com"><small data-en="Privacy &amp; data requests" data-zh="隐私与数据请求">Privacy &amp; data requests</small><strong>116779363@qq.com</strong></a>
+        </div>
       </div>
       <div class="social-links">
-        <a href="https://www.linkedin.com/in/wangxiaojie87/">LinkedIn</a>
         <a href="https://www.facebook.com/pulunetwork">Facebook</a>
         <a href="https://twitter.com/CodeFgame">Twitter</a>
         <a href="https://tiktok.com/@pulunetwork">TikTok</a>
@@ -126,10 +149,11 @@
   </main>
 
   <footer>
-    <span>© 上海噗噜网络科技有限公司</span>
-    <a href="PrivacyPolicy.txt">Privacy Policy / 隐私政策</a>
-    <span>Independent game studio</span>
+    <span data-en="© Shanghai Pulu Network Technology Co., Ltd." data-zh="© 上海噗噜网络科技有限公司">© Shanghai Pulu Network Technology Co., Ltd.</span>
+    <a href="PrivacyPolicy.txt" data-en="Privacy Policy" data-zh="隐私政策">Privacy Policy</a>
+    <span data-en="Independent game studio" data-zh="独立游戏工作室">Independent game studio</span>
   </footer>
+  <script src="assets/js/games-data.js"></script>
   <script src="assets/js/home.js"></script>
 </body>
 </html>
