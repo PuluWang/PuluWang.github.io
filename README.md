@@ -1,17 +1,72 @@
-# Pulu Network Official Page
+# Pulu Network
 
-## Email
-If you encounter any problems, please contact us through this email
+**A two-person independent mobile game studio**
 
-116779362@qq.com
+Pulu Network is the publishing brand of our legally registered independent game
+company. Our two-person team develops, publishes, and operates original mobile
+games for players around the world.
 
-## Phone Number
-+8617317803869
+Pulu Network 是我们依法注册成立的独立游戏公司所运营的发行品牌。我们是一支由两名成员组成的独立游戏团队，专注于原创移动游戏的开发、发行与长期运营。
 
-### Follow our fanpage on other platform
-[[Facebook]](https://www.facebook.com/pulunetwork) [[Twitter]](https://twitter.com/CodeFgame) [[TikTok]](https://tiktok.com/@pulunetwork) [[Discord]](https://discord.gg/JgEreHM4ht)
+## About Our Business / 关于我们
 
-[[Google play]](https://play.google.com/store/apps/dev?id=7630802525166577768) [[App Store]](https://itunes.apple.com/developer/id1040525394)
+We develop and publish our own games on Google Play and the App Store. Our
+business is supported by in-app advertising and in-app purchases. We use Google
+Ads only to promote and evaluate our own games; we are not an advertising agency
+and do not manage advertising for third-party clients.
+
+我们在 Google Play 和 App Store 开发并发行自有游戏，主要通过应用内广告和应用内购买获得收入。我们仅使用 Google Ads 推广和分析自己的游戏，不是广告代理商，也不为第三方客户管理广告。
+
+## Google Ads API Use / Google Ads API 使用说明
+
+We are developing a private, internal reporting tool for our two team members.
+The tool uses the Google Ads API only with Google Ads accounts owned or managed
+by our company.
+
+The tool is used to:
+
+- Retrieve aggregated reporting data such as impressions, clicks, advertising
+  cost, conversions, and campaign or ad group performance.
+- Create internal reports that help us evaluate user acquisition performance
+  and return on advertising spend for our games.
+- Reduce repetitive manual report downloads from the Google Ads interface.
+
+The tool is for internal use only. It is not available to external users, does
+not manage third-party advertising accounts, and does not sell or share Google
+Ads data. It does not create customer accounts or modify campaigns, ads, bids,
+or budgets.
+
+我们的工具仅供两名团队成员内部使用，只读取公司自有或经公司授权管理的 Google Ads 账户汇总报告数据，用于评估游戏买量效果和广告投入回报。该工具不向外部用户开放，不管理第三方广告账户，不出售或共享 Google Ads 数据，也不会创建客户账户或修改广告系列、广告、出价和预算。
+
+### Internal workflow / 内部流程
+
+**Our Google Ads accounts → Google Ads API → Private internal reports → Our two-person team**
+
+Access is restricted to authorized team members. Developer tokens, OAuth
+credentials, customer identifiers, and other sensitive account information are
+never published on this website or shared with external users.
+
+## Games and Channels / 游戏与官方渠道
+
+Our games are published through our official developer pages:
+
+[[Google Play]](https://play.google.com/store/apps/dev?id=7630802525166577768)
+[[App Store]](https://itunes.apple.com/developer/id1040525394)
+
+Follow Pulu Network:
+[[LinkedIn]](https://www.linkedin.com/in/wangxiaojie87/)
+[[Facebook]](https://www.facebook.com/pulunetwork)
+[[Twitter]](https://twitter.com/CodeFgame)
+[[TikTok]](https://tiktok.com/@pulunetwork)
+[[Discord]](https://discord.gg/JgEreHM4ht)
+
+## Contact / 联系我们
+
+- Customer support / 游戏客服：116779362@qq.com
+- Privacy and data requests / 隐私与数据请求：116779363@qq.com
+- Phone / 电话：+8617317803869
+
+[Privacy Policy / 隐私政策](PrivacyPolicy.txt)
 
 ## Download Link
 ![img](https://puluwang.github.io/img/BirdCrush2.png)
@@ -173,4 +228,3 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ![img](https://puluwang.github.io/img/WhisperingBay.png)
 ### WhisperingBay 秘语湾	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeslice)
-
