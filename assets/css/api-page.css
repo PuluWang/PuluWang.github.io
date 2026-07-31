@@ -1,0 +1,6 @@
+.api-hero h1{max-width:920px;font-size:clamp(46px,6.4vw,82px)}
+.contact-card span{display:block;margin-top:3px;color:var(--blue);font-size:12px;overflow-wrap:anywhere}
+.purpose-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin:28px 0}.purpose-grid>div{padding:23px;border:1px solid var(--line);border-radius:18px;background:#fff}.purpose-grid b{color:var(--blue);font-size:12px}.purpose-grid h3{margin-top:20px}.purpose-grid p{margin:0;font-size:14px;line-height:1.65}
+.workflow{display:grid;grid-template-columns:1fr auto 1fr auto 1fr auto 1fr;align-items:stretch;gap:9px;margin:28px 0}.workflow>div{min-height:175px;padding:20px;border-radius:18px;background:var(--ink);color:#fff;display:flex;flex-direction:column}.workflow b{color:#8abaff;font-size:11px}.workflow strong{margin-top:auto;font-size:15px;line-height:1.35}.workflow span{margin-top:8px;color:#afbed0;font-size:12px;line-height:1.45}.workflow i{align-self:center;color:var(--blue);font-size:19px;font-style:normal}
+@media(max-width:1050px){.workflow{grid-template-columns:1fr 1fr}.workflow i{display:none}}
+@media(max-width:700px){.purpose-grid,.workflow{grid-template-columns:1fr}.workflow>div{min-height:145px}.api-hero h1{font-size:46px}}
