@@ -3,20 +3,21 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Pulu Network is a two-person independent mobile game studio.">
+  <meta name="description" content="Pulu Network, operated by Shanghai Pulu Network Technology Co., Ltd., is a two-person independent mobile game studio.">
   <title>Pulu Network — Independent Game Studio</title>
   <link rel="stylesheet" href="assets/css/home.css">
+  <link rel="stylesheet" href="assets/css/brand.css">
 </head>
 <body>
   <header class="site-header">
     <a class="brand" href="#top" aria-label="Pulu Network home">
-      <span class="brand-mark">P</span>
-      <span>Pulu Network</span>
+      <img class="brand-logo" src="img/pulu-logo.png" alt="">
+      <span><b>Pulu Network</b><small>上海噗噜网络科技有限公司</small></span>
     </a>
     <nav aria-label="Main navigation">
+      <a href="#games">Games</a>
       <a href="#about">About</a>
       <a href="#api">API Use</a>
-      <a href="#games">Games</a>
       <a href="#contact">Contact</a>
     </nav>
   </header>
@@ -45,8 +46,21 @@
 
     <section class="stats" aria-label="Studio at a glance">
       <div><strong>2</strong><span>team members<br>团队成员</span></div>
-      <div><strong>40</strong><span>published games<br>已发布游戏</span></div>
+      <div><strong>36</strong><span>published games<br>已发布游戏</span></div>
       <div><strong>2</strong><span>mobile platforms<br>移动平台</span></div>
+    </section>
+
+    <section class="section games-section" id="games">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">Our games / 游戏作品</p>
+          <h2>Made with care,<br>one game at a time.</h2>
+        </div>
+        <p>Available through our official <a href="https://play.google.com/store/apps/dev?id=7630802525166577768">Google Play</a> and <a href="https://itunes.apple.com/developer/id1040525394">App Store</a> developer pages.</p>
+      </div>
+      <div class="games-grid" id="gamesGrid" aria-live="polite"></div>
+      <button class="show-games" id="showGames" type="button" hidden>Show all games</button>
+      <noscript><p><a href="README.md#download-link">View the complete game list</a></p></noscript>
     </section>
 
     <section class="section split" id="about">
@@ -55,8 +69,8 @@
         <h2>Independent by design.</h2>
       </div>
       <div class="prose">
-        <p>Pulu Network is the publishing brand of our legally registered independent game company. Our two-person team develops, publishes, and operates its own mobile games on Google Play and the App Store.</p>
-        <p>Pulu Network 是我们依法注册成立的独立游戏公司所运营的发行品牌。两名团队成员共同负责自有移动游戏的开发、发行与长期运营。</p>
+        <p>Pulu Network is the publishing brand operated by Shanghai Pulu Network Technology Co., Ltd. (上海噗噜网络科技有限公司), a legally registered independent game company. Our two-person team develops, publishes, and operates its own mobile games on Google Play and the App Store.</p>
+        <p>Pulu Network 是上海噗噜网络科技有限公司运营的游戏品牌。我们是一家依法注册成立的独立游戏公司，两名团队成员共同负责自有移动游戏的开发、发行与长期运营。</p>
         <div class="business-tags">
           <span>Original mobile games</span>
           <span>In-app advertising</span>
@@ -71,7 +85,7 @@
       <div class="api-intro">
         <p class="section-kicker light">Google Ads API use / 使用说明</p>
         <h2>Private reporting,<br>for our own games.</h2>
-        <p>We are developing a read-only internal reporting tool used exclusively by our two team members and only with Google Ads accounts owned or managed by our company.</p>
+        <p>We are developing a read-only internal reporting tool used exclusively by our two team members and only with Google Ads accounts owned or managed by Shanghai Pulu Network Technology Co., Ltd.</p>
         <div class="api-badges">
           <span>Internal use only</span>
           <span>Reporting only</span>
@@ -90,27 +104,15 @@
       </div>
     </section>
 
-    <section class="section games-section" id="games">
-      <div class="section-heading">
-        <div>
-          <p class="section-kicker">Our games / 游戏作品</p>
-          <h2>Made with care,<br>one game at a time.</h2>
-        </div>
-        <p>Available through our official <a href="https://play.google.com/store/apps/dev?id=7630802525166577768">Google Play</a> and <a href="https://itunes.apple.com/developer/id1040525394">App Store</a> developer pages.</p>
-      </div>
-      <div class="games-grid" id="gamesGrid" aria-live="polite"></div>
-      <button class="show-games" id="showGames" type="button" hidden>Show all games</button>
-      <noscript><p><a href="README.md#download-link">View the complete game list</a></p></noscript>
-    </section>
-
     <section class="contact-section" id="contact">
       <div>
         <p class="section-kicker">Contact / 联系我们</p>
         <h2>Let’s stay connected.</h2>
       </div>
       <div class="contact-grid">
-        <a href="mailto:116779362@qq.com"><small>Customer support</small><strong>116779362@qq.com</strong></a>
+        <a href="mailto:116779363@qq.com"><small>Customer support</small><strong>116779363@qq.com</strong></a>
         <a href="mailto:116779363@qq.com"><small>Privacy &amp; data requests</small><strong>116779363@qq.com</strong></a>
+        <a href="mailto:wangxiaojie@pulunetwork.com"><small>Business inquiries</small><strong>wangxiaojie@pulunetwork.com</strong></a>
         <a href="tel:+8617317803869"><small>Phone</small><strong>+86 173 1780 3869</strong></a>
       </div>
       <div class="social-links">
@@ -124,7 +126,7 @@
   </main>
 
   <footer>
-    <span>© Pulu Network</span>
+    <span>© 上海噗噜网络科技有限公司</span>
     <a href="PrivacyPolicy.txt">Privacy Policy / 隐私政策</a>
     <span>Independent game studio</span>
   </footer>

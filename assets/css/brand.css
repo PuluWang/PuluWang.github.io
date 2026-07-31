@@ -1,0 +1,47 @@
+.brand {
+  gap: 10px;
+  font-weight: 400;
+}
+
+.brand-logo {
+  width: 52px;
+  height: 52px;
+  object-fit: contain;
+}
+
+.brand > span {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.brand b {
+  font-size: 15px;
+}
+
+.brand small {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 9px;
+  font-weight: 650;
+  letter-spacing: 0;
+}
+
+.contact-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+@media (max-width: 560px) {
+  .brand-logo {
+    width: 46px;
+    height: 46px;
+  }
+
+  .brand small {
+    display: none;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}

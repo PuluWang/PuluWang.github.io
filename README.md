@@ -62,7 +62,7 @@ Follow Pulu Network:
 
 ## Contact / 联系我们
 
-- Customer support / 游戏客服：116779362@qq.com
+- Customer support / 游戏客服：116779363@qq.com
 - Privacy and data requests / 隐私与数据请求：116779363@qq.com
 - Phone / 电话：+8617317803869
 
@@ -72,10 +72,6 @@ Follow Pulu Network:
 ![img](https://puluwang.github.io/img/BirdCrush2.png)
 ### Bird Crush2 小鸡消消乐2
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.birdcrush2&referrer=homepage)
-
-![img](https://puluwang.github.io/img/BirdLink.png)
-### Bird Link 小鸡连连消
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.birdlink&referrer=homepage)
 
 ![img](https://puluwang.github.io/img/HideOrRun.png)	
 ### Hide Or Run 	
@@ -127,10 +123,6 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ![img](https://puluwang.github.io/img/mergevill.png)  
 ### Merge Vill	幻想合成村
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergevill&referrer=homepage)[[App Store]](https://apps.apple.com/app/id1581101327)
-
-![img](https://puluwang.github.io/img/GemBurst.png)	
-### Gem Burst 宝石爆破
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.gemburst&referrer=homepage) [[App Store]](https://apps.apple.com/app/id1658919490)
 
 ![img](https://puluwang.github.io/img/CakeLand2.png)	
 ### Cake Land 2 蛋糕乐消除2	
@@ -204,19 +196,13 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Merge Sword	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergesword&referrer=homepage)  [[App Store]](https://itunes.apple.com/app/id1470604942)
 
-![img](https://52codef.github.io/img/mergehighway.png)
+![img](https://puluwang.github.io/img/mergehighway.png)
 ### Merge Highway	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.goldenhighway&referrer=homepage) [[App Store]](https://apps.apple.com/app/id1581101331)
 
 ![img](https://puluwang.github.io/img/Arrow.png)
 ### Arrow	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow&referrer=homepage) [[App Store]](https://apps.apple.com/app/id1624413843)
-
-### Arrow2	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow2&referrer=homepage)
-
-### Arrow3	
-Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.arrow3&referrer=homepage)
 
 ![img](https://puluwang.github.io/img/CakeLand.png)
 ### Cake Land	
