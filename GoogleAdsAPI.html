@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Google Ads API use case for the private internal reporting tool operated by Shanghai Pulu Network Technology Co., Ltd.">
+  <meta name="description" content="Google Ads API use case for the private internal reporting, ad-group, and creative-management tool operated by Shanghai Pulu Network Technology Co., Ltd.">
   <meta name="robots" content="index,follow">
   <link rel="canonical" href="https://puluwang.github.io/GoogleAdsAPI.html">
   <title>Google Ads API Use — Pulu Network</title>
@@ -25,12 +25,12 @@
 
   <main>
     <section class="policy-hero api-hero">
-      <p class="eyebrow" data-en="Internal reporting" data-zh="内部报告工具">Internal reporting</p>
+      <p class="eyebrow" data-en="Internal ad-group tools" data-zh="内部广告组工具">Internal ad-group tools</p>
       <h1 data-en="Google Ads API Use" data-zh="Google Ads API 使用说明">Google Ads API Use</h1>
-      <p class="lede" data-en="A private, read-only reporting tool used only by our two-person team to evaluate advertising for our own mobile games." data-zh="一款仅供两人团队内部使用的只读报告工具，用于评估自有移动游戏的广告推广效果。">A private, read-only reporting tool used only by our two-person team to evaluate advertising for our own mobile games.</p>
+      <p class="lede" data-en="A private reporting, ad-group, and creative-management tool used only by our two-person team for our own mobile games. It creates ad groups only within existing campaigns and never creates campaigns." data-zh="一款仅供两人团队内部使用的报告、广告组与素材管理工具，服务于我们的自有移动游戏。工具只在现有广告系列内创建广告组，绝不会创建广告系列。">A private reporting, ad-group, and creative-management tool used only by our two-person team for our own mobile games. It creates ad groups only within existing campaigns and never creates campaigns.</p>
       <div class="policy-meta">
         <span data-en="Internal use only" data-zh="仅供内部使用">Internal use only</span>
-        <span data-en="Read-only reporting" data-zh="只读报告">Read-only reporting</span>
+        <span data-en="Limited ad-group maintenance" data-zh="有限广告组维护">Limited ad-group maintenance</span>
         <span data-en="No third-party clients" data-zh="无第三方客户">No third-party clients</span>
       </div>
     </section>
@@ -41,16 +41,18 @@
           <p class="summary-label" data-en="At a glance" data-zh="用途摘要">At a glance</p>
           <ul data-language="en">
             <li>Used only by our two team members.</li>
-            <li>Accesses only company-owned or authorized Google Ads accounts.</li>
-            <li>Retrieves aggregated reporting data.</li>
-            <li>Does not modify campaigns, ads, bids, or budgets.</li>
+            <li>Accesses only a dedicated Google Ads account managed by GatherOne for Pulu-owned games.</li>
+            <li>Retrieves aggregated reports and creates or updates ad groups only within existing Pulu campaigns; it never creates campaigns.</li>
+            <li>Replaces underperforming image, video, text, and HTML5/H5 creative with pre-approved assets.</li>
+            <li>Does not create campaigns or change budgets, bids, billing, audiences, or conversion actions.</li>
             <li>Does not serve external customers.</li>
           </ul>
           <ul data-language="zh" hidden>
             <li>仅供两名团队成员使用。</li>
-            <li>仅访问公司自有或经授权管理的 Google Ads 账户。</li>
-            <li>只读取汇总报告数据。</li>
-            <li>不修改广告系列、广告、出价或预算。</li>
+            <li>仅访问由 GatherOne 为 Pulu 自有游戏管理的独立 Google Ads 账户。</li>
+            <li>读取汇总报告，并且只在现有 Pulu 广告系列内创建或更新广告组；绝不会创建广告系列。</li>
+            <li>使用预先批准的素材替换表现不佳的图片、视频、文本和 HTML5/H5 创意。</li>
+            <li>不创建广告系列，也不修改预算、出价、结算、受众或转化操作。</li>
             <li>不向外部客户提供服务。</li>
           </ul>
         </div>
@@ -74,48 +76,58 @@
             <p>Our business is supported by in-app advertising and in-app purchases. We use Google Ads only to promote and evaluate our own games. We are not an advertising agency and do not provide advertising management services to third-party clients.</p>
           </section>
 
+          <!-- 中文：本节明确区分 Pulu 持有的 MCC 与 GatherOne 管理的独立广告账户，供审核方核实授权范围，并避免将授权访问误写为账户所有权。 English: This section distinguishes Pulu's MCC from the dedicated advertiser account managed by GatherOne so reviewers can verify the authorization scope without confusing access with ownership. -->
           <section>
-            <h2>2. Google Ads API use case</h2>
-            <p>We are developing a private, internal reporting tool used exclusively by our two team members. The tool uses the Google Ads API only with Google Ads accounts owned by or authorized for management by Shanghai Pulu Network Technology Co., Ltd.</p>
+            <h2>2. Google Ads API use case and account structure</h2>
+            <p>We are developing a private, internal reporting, ad-group, and creative-management tool used exclusively by our two team members. It creates or updates ad groups only inside existing, authorized Pulu campaigns and never creates campaigns. The Google Ads manager account (MCC) and developer token are owned and operated by Shanghai Pulu Network Technology Co., Ltd.</p>
+            <p>The tool accesses a separate, dedicated Google Ads advertiser account owned and managed by GatherOne, our authorized advertising agency. This account is used exclusively to advertise mobile games owned and operated by Pulu Network and is accessible through our company-owned manager account with GatherOne's authorization.</p>
             <div class="purpose-grid">
               <div><b>01</b><h3>Retrieve reports</h3><p>Retrieve aggregated metrics such as impressions, clicks, advertising cost, conversions, and campaign or ad group performance.</p></div>
-              <div><b>02</b><h3>Evaluate performance</h3><p>Create internal reports to evaluate user-acquisition performance and return on advertising spend for our games.</p></div>
-              <div><b>03</b><h3>Reduce manual work</h3><p>Reduce repetitive manual report downloads from the Google Ads interface and organize results for internal review.</p></div>
+              <div><b>02</b><h3>Create and maintain ad groups</h3><p>Create or update ad groups only inside existing, authorized Pulu campaigns. The tool never creates campaigns.</p></div>
+              <div><b>03</b><h3>Replace creative</h3><p>Replace underperforming image, video, text, and HTML5/H5 creative with pre-approved assets for the same Pulu game.</p></div>
             </div>
           </section>
 
           <section>
             <h2>3. Internal workflow</h2>
             <div class="workflow" aria-label="Google Ads API internal workflow">
-              <div><b>01</b><strong>Our Google Ads accounts</strong><span>Company-owned or authorized accounts</span></div>
+              <div><b>01</b><strong>Dedicated Pulu advertiser account</strong><span>Managed by GatherOne; Pulu campaigns only</span></div>
               <i aria-hidden="true">→</i>
-              <div><b>02</b><strong>Google Ads API</strong><span>Aggregated, read-only reporting data</span></div>
+              <div><b>02</b><strong>Reports and status signals</strong><span>Performance, ad strength, policy, and serving status</span></div>
               <i aria-hidden="true">→</i>
-              <div><b>03</b><strong>Private internal reports</strong><span>Cost, conversions, and performance</span></div>
+              <div><b>03</b><strong>Approved replacement</strong><span>Image, video, text, or HTML5/H5 asset</span></div>
               <i aria-hidden="true">→</i>
-              <div><b>04</b><strong>Our two-person team</strong><span>Internal user-acquisition decisions</span></div>
+              <div><b>04</b><strong>Verified ad-group update</strong><span>Existing allowlisted Pulu campaign only</span></div>
             </div>
           </section>
 
+          <!-- 中文：本节只公开经授权的广告组和素材变更边界，明确排除新建广告系列和预算修改，使审核说明与工具的实际权限保持一致。 English: This section documents only authorized ad-group and creative changes while excluding campaign creation and budget changes so the review description matches the tool's actual permissions. -->
           <section>
-            <h2>4. Users, access, and limitations</h2>
+            <h2>4. Controlled ad-group and creative operations</h2>
+            <p>Within existing, allowlisted Pulu campaigns, the tool can create ad groups and update ad-group resources, but it never creates campaigns. When an authorized team member confirms that creative is underperforming, or when Google Ads provides an ad-strength, policy, or serving signal that requires replacement, the tool can create or attach a pre-approved replacement image, video, text asset, or HTML5/H5 bundle for the same game.</p>
+            <p>The tool validates the planned API operation before execution and records the result. A superseded resource is paused or removed only after its approved replacement succeeds and only where the Google Ads resource type supports that operation.</p>
+          </section>
+
+          <section>
+            <h2>5. Users, access, and limitations</h2>
             <ul>
               <li>The tool is available only to our two authorized team members and is not offered to external users.</li>
-              <li>It does not manage third-party advertising accounts or create accounts for customers.</li>
-              <li>It does not create or modify campaigns, ads, keywords, bids, budgets, targeting, or other Google Ads settings.</li>
+              <li>It does not access GatherOne's other client accounts or unrelated campaigns, and it does not create accounts for customers.</li>
+              <li>Mutations are limited to authorized ad groups and pre-approved creative assets inside existing, allowlisted Pulu campaigns.</li>
+              <li>It does not create campaigns or change campaign or account budgets, bids, billing, account ownership, audiences, or conversion actions.</li>
               <li>It does not sell, license, or share Google Ads data with external users or third-party clients.</li>
-              <li>Data is used only for internal reporting and decisions concerning our own games.</li>
+              <li>Data and mutation results are used only for internal reporting, ad-group management, and creative replacement concerning our own games.</li>
             </ul>
           </section>
 
           <section>
-            <h2>5. Data handling and security</h2>
-            <p>The tool retrieves aggregated reporting data required for internal reports, including campaign and ad group identifiers or names, impressions, clicks, cost, conversions, dates, and related performance metrics. Access is restricted to authorized team members.</p>
+            <h2>6. Data handling and security</h2>
+            <p>The tool retrieves aggregated reporting data only from the dedicated GatherOne-managed account used for Pulu campaigns. The data required for internal reports includes campaign and ad group identifiers or names, impressions, clicks, cost, conversions, dates, and related performance metrics. For controlled changes, it records the affected resource identifiers, the approved replacement, and the API result. Access is restricted to authorized Pulu team members.</p>
             <p>Developer tokens, OAuth credentials, customer identifiers, and other sensitive account information are never published on this website or made available to external users. We use reasonable technical and organizational measures to protect access credentials and reporting data.</p>
           </section>
 
           <section>
-            <h2>6. Contact</h2>
+            <h2>7. Contact</h2>
             <address><strong>Shanghai Pulu Network Technology Co., Ltd.</strong><br>上海噗噜网络科技有限公司<br>Contact: 王晓杰<br>Email: <a href="mailto:wangxiaojie@pulunetwork.com">wangxiaojie@pulunetwork.com</a><br>Location: Shanghai, China</address>
           </section>
         </div>
@@ -133,47 +145,55 @@
           </section>
 
           <section>
-            <h2>2. Google Ads API 使用场景</h2>
-            <p>我们正在开发一款仅供两名团队成员使用的私有内部报告工具。该工具只通过 Google Ads API 访问上海噗噜网络科技有限公司拥有或经授权管理的 Google Ads 账户。</p>
+            <h2>2. Google Ads API 使用场景与账户结构</h2>
+            <p>我们正在开发一款仅供两名团队成员使用的私有内部报告、广告组与素材管理工具。工具只在现有且经过授权的 Pulu 广告系列内创建或更新广告组，绝不会创建广告系列。Google Ads 经理账户（MCC）和开发者令牌由上海噗噜网络科技有限公司拥有并运营。</p>
+            <p>该工具访问一个由我们的授权广告代理商 GatherOne 所有并管理的独立 Google Ads 广告账户。该账户仅用于推广 Pulu Network 自主开发和运营的移动游戏，并经 GatherOne 授权，通过本公司自有的经理账户访问。</p>
             <div class="purpose-grid">
               <div><b>01</b><h3>读取报告</h3><p>读取展示次数、点击次数、广告费用、转化以及广告系列或广告组表现等汇总指标。</p></div>
-              <div><b>02</b><h3>评估推广效果</h3><p>生成内部报告，用于评估自有游戏的用户获取表现和广告投入回报。</p></div>
-              <div><b>03</b><h3>减少重复操作</h3><p>减少从 Google Ads 界面重复手动下载报告的工作，并整理结果供团队内部查看。</p></div>
+              <div><b>02</b><h3>创建和维护广告组</h3><p>只在现有且经过授权的 Pulu 广告系列内创建或更新广告组，绝不会创建广告系列。</p></div>
+              <div><b>03</b><h3>替换创意</h3><p>使用同一 Pulu 游戏预先批准的素材，替换表现不佳的图片、视频、文本和 HTML5/H5 创意。</p></div>
             </div>
           </section>
 
           <section>
             <h2>3. 内部工作流程</h2>
             <div class="workflow" aria-label="Google Ads API 内部工作流程">
-              <div><b>01</b><strong>我们的 Google Ads 账户</strong><span>公司自有或经授权管理的账户</span></div>
+              <div><b>01</b><strong>Pulu 独立广告账户</strong><span>由 GatherOne 管理，仅含 Pulu 广告系列</span></div>
               <i aria-hidden="true">→</i>
-              <div><b>02</b><strong>Google Ads API</strong><span>汇总的只读报告数据</span></div>
+              <div><b>02</b><strong>报告与状态信号</strong><span>表现、广告效力、政策及投放状态</span></div>
               <i aria-hidden="true">→</i>
-              <div><b>03</b><strong>私有内部报告</strong><span>费用、转化和广告表现</span></div>
+              <div><b>03</b><strong>已批准的替换素材</strong><span>图片、视频、文本或 HTML5/H5 素材</span></div>
               <i aria-hidden="true">→</i>
-              <div><b>04</b><strong>两人团队</strong><span>辅助内部买量决策</span></div>
+              <div><b>04</b><strong>经验证的广告组更新</strong><span>仅限现有白名单 Pulu 广告系列</span></div>
             </div>
           </section>
 
           <section>
-            <h2>4. 用户、访问权限与功能限制</h2>
+            <h2>4. 受控的广告组与素材操作</h2>
+            <p>在现有且列入白名单的 Pulu 广告系列内，该工具可以创建广告组并更新广告组资源，但绝不会创建广告系列。当获得授权的团队成员确认创意表现不佳，或 Google Ads 提供需要替换的广告效力、政策或投放状态信号时，工具可以为同一游戏创建或关联预先批准的替换图片、视频、文本素材或 HTML5/H5 素材包。</p>
+            <p>工具会在执行前验证计划中的 API 操作并记录结果。只有在已批准的替换素材成功后，并且相应 Google Ads 资源类型支持该操作时，才会暂停或移除被替换的资源。</p>
+          </section>
+
+          <section>
+            <h2>5. 用户、访问权限与功能限制</h2>
             <ul>
               <li>该工具仅供两名获得授权的团队成员使用，不向外部用户开放。</li>
-              <li>该工具不管理第三方广告账户，也不为客户创建账户。</li>
-              <li>该工具不会创建或修改广告系列、广告、关键字、出价、预算、定位或其他 Google Ads 设置。</li>
+              <li>该工具不会访问 GatherOne 其他客户的账户或无关广告系列，也不为客户创建账户。</li>
+              <li>修改操作仅限现有白名单 Pulu 广告系列内经过授权的广告组和预先批准的创意素材。</li>
+              <li>该工具不会创建广告系列，也不会修改广告系列或账户预算、出价、结算、账户所有权、受众或转化操作。</li>
               <li>我们不会向外部用户或第三方客户出售、许可或共享 Google Ads 数据。</li>
-              <li>相关数据只用于自有游戏的内部报告和经营决策。</li>
+              <li>相关数据和修改结果只用于自有游戏的内部报告、广告组管理与素材替换。</li>
             </ul>
           </section>
 
           <section>
-            <h2>5. 数据处理与安全</h2>
-            <p>该工具只读取生成内部报告所需的汇总数据，包括广告系列及广告组标识符或名称、展示、点击、费用、转化、日期及相关表现指标。访问权限仅限获得授权的团队成员。</p>
+            <h2>6. 数据处理与安全</h2>
+            <p>该工具仅从 GatherOne 为 Pulu 广告系列管理的独立账户读取汇总报告数据。内部报告所需数据包括广告系列及广告组标识符或名称、展示、点击、费用、转化、日期及相关表现指标。执行受控修改时，工具会记录受影响的资源标识符、批准的替换素材和 API 结果。访问权限仅限获得授权的 Pulu 团队成员。</p>
             <p>开发者令牌、OAuth 凭据、客户标识符及其他敏感账户信息绝不会发布在本网站上，也不会提供给外部用户。我们采取合理的技术和组织措施保护访问凭据及报告数据。</p>
           </section>
 
           <section>
-            <h2>6. 联系方式</h2>
+            <h2>7. 联系方式</h2>
             <address><strong>上海噗噜网络科技有限公司</strong><br>Shanghai Pulu Network Technology Co., Ltd.<br>联系人：王晓杰<br>邮箱：<a href="mailto:wangxiaojie@pulunetwork.com">wangxiaojie@pulunetwork.com</a><br>所在地：中国上海</address>
           </section>
         </div>
