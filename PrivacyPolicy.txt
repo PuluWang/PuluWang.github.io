@@ -1,59 +1,14 @@
-Privacy Policy
-Introduction
-Pulu Network ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and share your personal and sensitive data when you use our game ("the App") and its associated services. By using the App, you agree to the practices described in this Privacy Policy.
+Pulu Network Privacy Policy / 隐私政策
 
-Access and Availability
-Our Privacy Policy is accessible through:
+The current Privacy Policy is available at:
+https://puluwang.github.io/PrivacyPolicy.html
 
-The app's details page in the Google Play Store.
-A link within the App itself.
-Entity Information
-This Privacy Policy applies to Pulu Network and the App listed on its Google Play Store page.
+最新隐私政策请访问：
+https://puluwang.github.io/PrivacyPolicy.html
 
-Contact Information
-If you have any privacy-related questions or concerns, please contact us at:
+Company / 公司：
+Shanghai Pulu Network Technology Co., Ltd.
+上海噗噜网络科技有限公司
 
-Email: 116779363@qq.com
-
-Policy Accessibility
-This Privacy Policy:
-
-Is clearly marked as "Privacy Policy."
-Can be viewed without the need for any plugins or special software.
-Is available at a publicly accessible and non-geographically restricted URL.
-Is non-editable.
-Data Collection and Use
-We are committed to transparently disclosing how the App accesses, collects, uses, and shares your data.
-
-Types of Data Collected
-Geographical Data: The App accesses your approximate geographical location.
-Game Data: Information generated during gameplay, such as high scores, in-game purchases, and preferences.
-Payment Information: Details provided during in-app purchases.
-Photos and Media: Access to your device's photo album when you share images from the App.
-User and Device Information: Data for analytics and advertising purposes, such as device type, operating system, and unique device identifiers.
-Data Usage
-Geographical Data: To provide location-based services and enhance user experience.
-Game Data: To improve gameplay experience and support in-game functionality.
-Payment Information: To process transactions and manage purchases.
-Photos and Media: To enable sharing of game-related images.
-User and Device Information: For data analysis and targeted advertising.
-Data Sharing
-Your data may be shared with:
-
-Third-Party Service Providers: To support our services, such as payment processors and analytics providers.
-Advertising Partners: To deliver personalized ads based on user and device data.
-Security Measures
-We employ robust security measures to protect your personal and sensitive data, including encryption and secure servers.
-
-Data Retention and Deletion
-Retention: We retain your data as long as necessary to provide the services and for legitimate business purposes.
-Deletion: You can request the deletion of your data by contacting us at 116779363@qq.com. We will respond to your request in accordance with applicable laws and regulations.
-Changes to the Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be posted on this page, and you will be notified via the App or other means as appropriate.
-
-Effective Date
-This Privacy Policy is effective as of [Insert Date].
-
-Thank you for using our App. Your trust is important to us, and we are committed to protecting your privacy.
-
-For further details or queries, please contact us at 116779363@qq.com.
+Privacy contact / 隐私联系邮箱：
+116779363@qq.com

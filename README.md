@@ -66,7 +66,7 @@ Follow Pulu Network:
 - Privacy and data requests / 隐私与数据请求：116779363@qq.com
 - Phone / 电话：+8617317803869
 
-[Privacy Policy / 隐私政策](PrivacyPolicy.txt)
+[Privacy Policy / 隐私政策](PrivacyPolicy.html)
 
 ## Download Link
 ![img](https://puluwang.github.io/img/BirdCrush2.png)
