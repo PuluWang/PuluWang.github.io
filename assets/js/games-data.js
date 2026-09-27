@@ -469,7 +469,7 @@ window.PULU_GAMES = [
   },
   {
     "title": "Hex Puzzle",
-    "image": "",
+    "image": "https://puluwang.github.io/img/HexPuzzle.png",
     "stores": [
       {
         "label": "Google play",

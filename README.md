@@ -208,6 +208,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Cake Land	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.cakeland&referrer=homepage) [[App Store]](https://apps.apple.com/app/id1627878202)
 
+![img](https://puluwang.github.io/img/HexPuzzle.png)
 ### Hex Puzzle	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.hexpuzzle&referrer=homepage)
 
