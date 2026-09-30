@@ -128,7 +128,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ### Cake Land 2 蛋糕乐消除2	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulu.cakeland2&referrer=homepage) [[App Store]](https://apps.apple.com/app/id1619789442)
 
-![img](https://puluwang.github.io/img/IglooCrush.png)
+![img](https://puluwang.github.io/img/IglooCrush.png?v=20261001)
 ### Igloo Crush 冰屋消消乐
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.pulunetwork.igloocrush&referrer=homepage) [[App Store]](https://apps.apple.com/app/id1610635448)
 

@@ -189,7 +189,7 @@ window.PULU_GAMES = [
   },
   {
     "title": "Igloo Crush 冰屋消消乐",
-    "image": "https://puluwang.github.io/img/IglooCrush.png",
+    "image": "https://puluwang.github.io/img/IglooCrush.png?v=20261001",
     "stores": [
       {
         "label": "Google play",
