@@ -51,7 +51,7 @@ never published on this website or shared with external users.
 Our games are published through our official developer pages:
 
 [[Google Play]](https://play.google.com/store/apps/dev?id=7630802525166577768)
-[[App Store]](https://itunes.apple.com/developer/id1040525394)
+[[App Store]](https://apps.apple.com/us/developer/shanghai-pulu-network-technology-co-ltd/id1469533027?uo=4)
 
 Follow Pulu Network:
 [[LinkedIn]](https://www.linkedin.com/in/wangxiaojie87/)
@@ -67,6 +67,17 @@ Follow Pulu Network:
 - Phone / 电话：+8617317803869
 
 [Privacy Policy / 隐私政策](PrivacyPolicy.html)
+
+## Apps / 应用
+
+![Chick Diary](https://puluwang.github.io/img/ChickDiary.png)
+### Chick Diary 小鸡日记
+
+Keep your birds' care and growth records together, from egg to adult.
+
+记录宠物鸟的照护与成长，让养鸟日常更有条理。
+
+Download on [[Google Play]](https://play.google.com/store/apps/details?id=com.pulu.chickdiary&referrer=homepage)
 
 ## Download Link
 ![img](https://puluwang.github.io/img/BirdCrush2.png)
@@ -215,3 +226,7 @@ Download on [[Google play]](https://play.google.com/store/apps/details?id=com.co
 ![img](https://puluwang.github.io/img/WhisperingBay.png)
 ### WhisperingBay 秘语湾	
 Download on [[Google play]](https://play.google.com/store/apps/details?id=com.codef.mergeslice)
+
+![img](https://puluwang.github.io/img/GemBurst.png)
+### Gem Burst 宝石爆破
+Download on [[App Store]](https://apps.apple.com/app/id1658919490)

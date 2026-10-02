@@ -486,5 +486,15 @@ window.PULU_GAMES = [
         "url": "https://play.google.com/store/apps/details?id=com.codef.mergeslice"
       }
     ]
+  },
+  {
+    "title": "Gem Burst 宝石爆破",
+    "image": "https://puluwang.github.io/img/GemBurst.png",
+    "stores": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/app/id1658919490"
+      }
+    ]
   }
 ];
