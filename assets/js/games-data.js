@@ -1,5 +1,19 @@
 window.PULU_GAMES = [
   {
+    "title": "Igloo Crush 冰屋消消乐",
+    "image": "https://puluwang.github.io/img/IglooCrush.png?v=20261001",
+    "stores": [
+      {
+        "label": "Google play",
+        "url": "https://play.google.com/store/apps/details?id=com.pulunetwork.igloocrush&referrer=homepage"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/app/id1610635448"
+      }
+    ]
+  },
+  {
     "title": "Bird Crush2 小鸡消消乐2",
     "image": "https://puluwang.github.io/img/BirdCrush2.png",
     "stores": [
@@ -184,20 +198,6 @@ window.PULU_GAMES = [
       {
         "label": "App Store",
         "url": "https://apps.apple.com/app/id1619789442"
-      }
-    ]
-  },
-  {
-    "title": "Igloo Crush 冰屋消消乐",
-    "image": "https://puluwang.github.io/img/IglooCrush.png?v=20261001",
-    "stores": [
-      {
-        "label": "Google play",
-        "url": "https://play.google.com/store/apps/details?id=com.pulunetwork.igloocrush&referrer=homepage"
-      },
-      {
-        "label": "App Store",
-        "url": "https://apps.apple.com/app/id1610635448"
       }
     ]
   },
