@@ -27,7 +27,7 @@
       <h1 data-en="Privacy Policy" data-zh="隐私政策">Privacy Policy</h1>
       <p class="lede" data-en="This policy explains how our mobile games collect, use, share, retain, and protect information on Android and iOS." data-zh="本政策说明我们的移动游戏在 Android 和 iOS 平台如何收集、使用、共享、保留和保护信息。">This policy explains how our mobile games collect, use, share, retain, and protect information on Android and iOS.</p>
       <div class="policy-meta">
-        <span><b data-en="Effective date" data-zh="生效日期">Effective date</b> <time datetime="2026-09-24" data-en="September 24, 2026" data-zh="2026年9月24日">September 24, 2026</time></span>
+        <span><b data-en="Effective date" data-zh="生效日期">Effective date</b> <time datetime="2026-10-02" data-en="October 2, 2026" data-zh="2026年10月2日">October 2, 2026</time></span>
         <span><b data-en="Platforms" data-zh="适用平台">Platforms</b> Android &amp; iOS</span>
       </div>
     </section>
@@ -39,7 +39,7 @@
           <ul data-language="en">
             <li>Our games do not create user accounts.</li>
             <li>We collect gameplay, device, advertising, attribution, and diagnostic data.</li>
-            <li>We use AdMob, Firebase, Tenjin, and the Meta/Facebook SDK.</li>
+            <li>We use AdMob and are gradually removing Firebase. Some Games use Tenjin, and some collect data through the Meta/Facebook SDK.</li>
             <li>There is no in-app account deletion function because there are no user accounts.</li>
             <li>Chick Diary lets you delete locally entered bird data; its deletion functions retain profile slots, coins, and skin unlocks.</li>
             <li>You may contact us about privacy requests.</li>
@@ -47,7 +47,7 @@
           <ul data-language="zh" hidden>
             <li>我们的游戏不创建用户账号。</li>
             <li>我们收集游戏、设备、广告、归因和诊断数据。</li>
-            <li>我们使用 AdMob、Firebase、Tenjin 和 Meta/Facebook SDK。</li>
+            <li>我们使用 AdMob，并正在逐步移除 Firebase。部分游戏使用 Tenjin，部分游戏通过 Meta/Facebook SDK 采集数据。</li>
             <li>由于没有用户账号，游戏内不提供账号删除功能。</li>
             <li>Chick Diary 可删除自行填写的本机鸟类数据；应用内删除功能会保留格子、金币和皮肤解锁状态。</li>
             <li>您可以通过电子邮件提交隐私请求。</li>
@@ -105,14 +105,15 @@
 
           <section>
             <h2>4. Third-party services and data sharing</h2>
-            <p>We use the following service providers. They may process data on our behalf or as independent controllers under their own terms and privacy policies. The actual data processed depends on the Game, platform, SDK settings, and your choices.</p>
+            <p>Our Games may use the following service providers, depending on the Game and version. They may process data on our behalf or as independent controllers under their own terms and privacy policies. The actual data processed depends on the Game, version, platform, SDK settings, and your choices.</p>
+            <p>Due to serious issues we have encountered while using Firebase, we are gradually removing it from our projects. This transition is ongoing, and some Games or versions may still use Firebase and the related services described below.</p>
             <div class="provider-list">
               <div><h3>Google AdMob</h3><p>Advertising delivery and measurement, analytics, and fraud prevention. AdMob may process IP address, advertising or app identifiers, device/app information, ad interactions, product interactions, and diagnostics.</p><a href="https://policies.google.com/technologies/ads">Google advertising privacy information</a></div>
               <div><h3>Google Firebase Analytics</h3><p>Gameplay and app-event analytics, audience and engagement measurement, device/app information, identifiers, purchase events, and attribution information.</p><a href="https://firebase.google.com/support/privacy">Firebase privacy and security</a></div>
               <div><h3>Google Firebase Crashlytics</h3><p>Crash reports, stack traces, device and app state, installation identifiers, and diagnostic information used to improve stability.</p><a href="https://firebase.google.com/support/privacy">Firebase privacy and security</a></div>
               <div><h3>Google Firebase Remote Config</h3><p>App-instance and app metadata used to deliver and evaluate configuration values and feature settings.</p><a href="https://firebase.google.com/support/privacy">Firebase privacy and security</a></div>
-              <div><h3>Tenjin</h3><p>Install attribution and advertising performance measurement. Tenjin may process advertising/vendor identifiers, IP address, device model, platform, locale, app/SDK/OS version, campaign, and conversion information.</p><a href="https://tenjin.com/privacy/">Tenjin Privacy Policy</a></div>
-              <div><h3>Meta/Facebook SDK</h3><p>App-event analytics, advertising attribution, campaign measurement, and advertising services. Depending on configuration, Meta may receive device/app information, identifiers, app events, ad interactions, and purchase events.</p><a href="https://www.facebook.com/privacy/policy/">Meta Privacy Policy</a></div>
+              <div><h3>Tenjin</h3><p>Some Games use Tenjin for install attribution and advertising performance measurement. Tenjin may process advertising/vendor identifiers, IP address, device model, platform, locale, app/SDK/OS version, campaign, and conversion information.</p><a href="https://tenjin.com/privacy/">Tenjin Privacy Policy</a></div>
+              <div><h3>Meta/Facebook SDK</h3><p>Some Games use the Meta/Facebook SDK to collect data for app-event analytics, advertising attribution, campaign measurement, and advertising services. Depending on configuration, Meta may receive device/app information, identifiers, app events, ad interactions, and purchase events.</p><a href="https://www.facebook.com/privacy/policy/">Meta Privacy Policy</a></div>
               <div><h3>Google Play and Apple App Store</h3><p>App distribution and in-app purchase processing. Store operators process payments and may provide us with product and transaction-status information.</p><a href="https://policies.google.com/privacy">Google Privacy Policy</a><a href="https://www.apple.com/legal/privacy/">Apple Privacy Policy</a></div>
             </div>
             <p>We may also disclose information when required by law, to protect users or our rights, in connection with a corporate transaction, or to professional advisers and vendors that support our operations. We do not sell personal information in exchange for money. Disclosures for targeted or personalized advertising may nevertheless be treated as a “sale,” “sharing,” or targeted advertising under some privacy laws.</p>
@@ -201,14 +202,15 @@
 
           <section>
             <h2>4. 第三方服务及数据共享</h2>
-            <p>我们使用以下服务提供商。它们可能代表我们处理数据，也可能依据其自身条款和隐私政策独立处理数据。实际处理的数据取决于具体游戏、平台、SDK 设置和您的选择。</p>
+            <p>我们的游戏可能使用以下服务提供商，具体取决于游戏及版本。它们可能代表我们处理数据，也可能依据其自身条款和隐私政策独立处理数据。实际处理的数据取决于具体游戏、版本、平台、SDK 设置和您的选择。</p>
+            <p>由于我们在使用 Firebase 过程中遇到的严重问题，我们正在逐步从各个项目中移除 Firebase。迁移尚在进行，部分游戏或版本仍可能使用 Firebase 及下述相关服务。</p>
             <div class="provider-list">
               <div><h3>Google AdMob</h3><p>用于广告展示与衡量、分析和防止欺诈。AdMob 可能处理 IP 地址、广告或应用标识符、设备及应用信息、广告互动、产品互动及诊断信息。</p><a href="https://policies.google.com/technologies/ads">Google 广告隐私说明</a></div>
               <div><h3>Google Firebase Analytics</h3><p>用于游戏及应用事件分析、受众与互动衡量，可能处理设备和应用信息、标识符、购买事件及归因信息。</p><a href="https://firebase.google.com/support/privacy">Firebase 隐私与安全</a></div>
               <div><h3>Google Firebase Crashlytics</h3><p>处理崩溃报告、堆栈跟踪、设备及应用状态、安装标识符和诊断信息，以提高游戏稳定性。</p><a href="https://firebase.google.com/support/privacy">Firebase 隐私与安全</a></div>
               <div><h3>Google Firebase Remote Config</h3><p>处理应用实例及应用元数据，用于下发和评估配置参数及功能设置。</p><a href="https://firebase.google.com/support/privacy">Firebase 隐私与安全</a></div>
-              <div><h3>Tenjin</h3><p>用于安装归因和广告效果衡量。Tenjin 可能处理广告或供应商标识符、IP 地址、设备型号、平台、语言地区、应用/SDK/系统版本、广告活动及转化信息。</p><a href="https://tenjin.com/privacy/">Tenjin 隐私政策</a></div>
-              <div><h3>Meta/Facebook SDK</h3><p>用于应用事件分析、广告归因、广告活动衡量和广告服务。根据配置，Meta 可能接收设备及应用信息、标识符、应用事件、广告互动和购买事件。</p><a href="https://www.facebook.com/privacy/policy/">Meta 隐私政策</a></div>
+              <div><h3>Tenjin</h3><p>部分游戏使用 Tenjin 进行安装归因和广告效果衡量。Tenjin 可能处理广告或供应商标识符、IP 地址、设备型号、平台、语言地区、应用/SDK/系统版本、广告活动及转化信息。</p><a href="https://tenjin.com/privacy/">Tenjin 隐私政策</a></div>
+              <div><h3>Meta/Facebook SDK</h3><p>部分游戏通过 Meta/Facebook SDK 采集数据，用于应用事件分析、广告归因、广告活动衡量和广告服务。根据配置，Meta 可能接收设备及应用信息、标识符、应用事件、广告互动和购买事件。</p><a href="https://www.facebook.com/privacy/policy/">Meta 隐私政策</a></div>
               <div><h3>Google Play 与 Apple App Store</h3><p>用于应用分发和应用内购买处理。应用商店运营方负责处理付款，并可能向我们提供商品及交易状态信息。</p><a href="https://policies.google.com/privacy">Google 隐私政策</a><a href="https://www.apple.com/legal/privacy/">Apple 隐私政策</a></div>
             </div>
             <p>在法律要求、保护用户或我们的权利、公司交易，或向支持我们运营的专业顾问及供应商提供信息时，我们也可能披露相关信息。我们不会以收取金钱为目的出售个人信息；但在某些隐私法律下，为定向或个性化广告而进行的信息披露仍可能被视为“出售”“共享”或定向广告。</p>
